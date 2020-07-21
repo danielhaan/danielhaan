@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there (testing GitHub profile readme) 👋
+
+![](https://github.com/danielhaan/danielhaan/blob/master/saga.jpg?raw=true)
 
 <!--
 **danielhaan/danielhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
